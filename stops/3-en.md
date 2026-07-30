@@ -20,6 +20,7 @@ developed textile traditions and styles characteristic of their communities. For
 look at this tunic from an Aymara-speaking community, another culture which was located in
 the highlands and later came under Inka rule.
 
+
 Aymara communities had inhabited the southern region of the Inka empire centuries before
 Inka rule, developing a distinct clothing style featuring woven stripes. This men’s tunic, called
 “qhawa” in Aymara, has a pattern of narrow blue, yellow, red, and light green vertical stripes.
