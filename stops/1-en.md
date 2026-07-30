@@ -3,7 +3,7 @@ layout: episode
 permalink: /stops/1-EN/
 type: stop
 section_title: Introduction Wall
-title: Stop 1 - English
+title: Stop #1 - English
 page_rank: 1
 stop_id: 1-EN
 audio_file: NASA_main_APU_Shutdown.mp3
