@@ -2,8 +2,8 @@
 layout: episode
 permalink: /stops/1-EN/
 type: stop
-section_title: Introduction
-title: Welcome to the first stop in the tour
+section_title: Introduction Wall
+title: Stop 1 - English
 page_rank: 1
 stop_id: 1-EN
 audio_file: NASA_main_APU_Shutdown.mp3
@@ -14,14 +14,36 @@ hero_images:
    alt_text: Second example photo for stop 1
 ---
 
-Replace this section of text with the full transcript of your audio guide stop. Use a second level heading to flag the person speaking
+At its height in the 16th century, the Inka Empire stretched across thousands of miles and
+reached from the shores of the Pacific Ocean to the summits of the Andean Mountains. The
+Inka empire encompassed diverse groups of people with their own languages, customs, and
+highly developed art forms— where textiles played a critical role in all aspects of society.
 
-## Person speaking (second level heading)
+After conquering this vast terrain, the Inka centered their empire in the highland capital of
+Cusco and used textiles, especially clothing, as the primary means of communicating cultural
+identity and political status among its subjects. The Inka controlled the materials for textile
+making, along with the weaving expertise needed to make clothing in their specialized
+techniques.
 
-> And this blockquote is styled to make it clear that this section really is someone speaking.
+With these resources, the Inka developed new garment styles restricted for use by the Inka
+elites (such as the mantle to the left). They also imposed their own weaving techniques and
+iconography into regional styles as an expression of their dominance.
+
+However, local communities simultaneously continued to produce textiles in their traditional
+techniques and with their own imagery (such as the tunic from the coast to the right). Weaving
+an Empire explores how diverse peoples across the Inka Empire dressed to both reflect their
+affiliation with the state as well as the textile traditions and local style of their communities. 
+
+As you explore these galleries, we encourage you to take the gallery guide with you as a useful
+reference on the differentiating factors between Inka state textiles and local traditions across
+the Andes.
+
+## Large text (second level heading)
+
+> Light color normal text
 
 And we can go back to a normal transcript.
 
-### A third level heading
+### Color normal text
 
-The example audio used here is borrowed from [NASA](http://www.nasa.gov/connect/sounds/index.html#Discovery) under the terms of their [usage guidelines](http://www.nasa.gov/multimedia/guidelines/index.html). This is just a test clip, so you'll need to replace it!
+Hyperlink [NASA](http://www.nasa.gov/connect/sounds/index.html#Discovery).
