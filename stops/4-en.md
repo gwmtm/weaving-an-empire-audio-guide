@@ -3,7 +3,7 @@ layout: episode
 permalink: /stops/4-EN/
 type: stop
 section_title: Coastal Tunic Style
-title: Stop 4 - English
+title: Stop No. 4
 page_rank: 7
 stop_id: 4-EN
 audio_file: NASA_main_Go_at_Throttle_Up.mp3
