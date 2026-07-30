@@ -3,7 +3,7 @@ layout: episode
 permalink: /stops/6-EN/
 type: stop
 section_title: Inka Tunic with Eight-pointed Stars
-title: Stop 6 - English
+title: Stop No. 6
 page_rank: 11
 stop_id: 6-EN
 audio_file: NASA_main_Go_at_Throttle_Up.mp3
