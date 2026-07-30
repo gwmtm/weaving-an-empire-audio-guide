@@ -3,7 +3,7 @@ layout: episode
 permalink: /stops/2-ES/
 type: stop
 section_title: Elementos de la Vestimenta Andina
-title: Parada N.º 2 - Español
+title: Parada N.º 2
 page_rank: 4
 stop_id: 2-ES
 audio_file: NASA_main_Go_at_Throttle_Up.mp3
