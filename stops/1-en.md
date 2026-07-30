@@ -30,8 +30,8 @@ elites (such as the mantle to the left). They also imposed their own weaving tec
 iconography into regional styles as an expression of their dominance.
 
 However, local communities simultaneously continued to produce textiles in their traditional
-techniques and with their own imagery (such as the tunic from the coast to the right). Weaving
-an Empire explores how diverse peoples across the Inka Empire dressed to both reflect their
+techniques and with their own imagery (such as the tunic from the coast to the right). *Weaving
+an Empire* explores how diverse peoples across the Inka Empire dressed to both reflect their
 affiliation with the state as well as the textile traditions and local style of their communities. 
 
 As you explore these galleries, we encourage you to take the gallery guide with you as a useful
