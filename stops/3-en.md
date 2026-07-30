@@ -2,8 +2,8 @@
 layout: episode
 permalink: /stops/3-EN/
 type: stop
-section_title: The End
-title: Last stop in the tour
+section_title: Highland Tunic Style (Aymara)
+title: Stop 3 - English
 page_rank: 5
 stop_id: 3-EN
 audio_file: NASA_main_Go_at_Throttle_Up.mp3
@@ -15,14 +15,22 @@ hero_images:
    alt_text: Second example photo for stop 3
 ---
 
-Replace this section of text with the full transcript of your audio guide stop. Use a second level heading to flag the person speaking
+Long before the Inka established their empire, different cultural groups across the Andes had
+developed textile traditions and styles characteristic of their communities. For example, we can
+look at this tunic from an Aymara-speaking community, another culture which was located in
+the highlands and later came under Inka rule.
+ 
+Aymara communities had inhabited the southern region of the Inka empire centuries before
+Inka rule, developing a distinct clothing style featuring woven stripes. This men’s tunic, called
+“qhawa” in Aymara, has a pattern of narrow blue, yellow, red, and light green vertical stripes.
+Repeating patterns of stripes were common in men’s clothing, while symmetrical groupings of
+stripes were common for women’s clothing, like the shoulder mantle called “isallu” on display
+to the right. The bright colors and high-quality alpaca fiber indicate that it was made for a
+member of the Aymara elite.
 
-## Person speaking
-
-> And this blockquote is styled to make it clear that this section really is someone speaking.
-
-And we can go back to a normal transcript.
-
-### A third level heading
-
-The example audio used here is borrowed from [NASA](http://www.nasa.gov/connect/sounds/index.html#Discovery) under the terms of their [usage guidelines](http://www.nasa.gov/multimedia/guidelines/index.html). This is just a test clip, so you'll need to replace it!
+Even the most elite Aymara garments were woven in warp-faced weaving techniques. This
+means that the yarns attached to the loom at the time of weaving are the ones that become
+prominent on the surface of the fabric (rather than the interlaced weft yarns). Garments woven
+in warp-faced weaving techniques do not require as much thread as weft-faced ones. Aymara
+communities were likely not able to command the raw materials nor the labor necessary to
+produce the weft-faced styles, like tapestry weave, favored by Inka elite.
