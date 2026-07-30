@@ -14,7 +14,7 @@ hero_images:
 At its height in the 16th century, the Inka Empire stretched across thousands of miles and
 reached from the shores of the Pacific Ocean to the summits of the Andean Mountains. The
 Inka empire encompassed diverse groups of people with their own languages, customs, and
-highly developed art forms. In Andean society,textiles played a critical role in all aspects of life.
+highly developed art forms. In Andean society, textiles played a critical role in all aspects of life.
 
 After conquering this vast terrain, the Inka centered their empire in Cusco and used textiles,
 especially clothing, as the primary means of communicating cultural identity and political status
