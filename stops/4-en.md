@@ -2,8 +2,8 @@
 layout: episode
 permalink: /stops/4-EN/
 type: stop
-section_title: The End
-title: Last stop in the tour
+section_title: Coastal Tunic Style
+title: Stop 4 - English
 page_rank: 7
 stop_id: 4-EN
 audio_file: NASA_main_Go_at_Throttle_Up.mp3
@@ -15,14 +15,17 @@ hero_images:
    alt_text: Second example photo for stop 3
 ---
 
-Replace this section of text with the full transcript of your audio guide stop. Use a second level heading to flag the person speaking
+Coastal garment styles differed from the highland ones in length, materials, color palette and
+weaving techniques. In contrast to the highland preference for llama, alpaca or other camelid
+animal fibers, coastal textiles mostly use cotton yarns and feature a wider range of colors and
+weaving techniques.
 
-## Person speaking
+These two fragments were originally part of the same men’s tunic, composed of two separately
+woven pieces of cloth sewn together in the front. Men’s tunics in coastal cultures were short,
+ending at the hips and revealing a decorated loincloth.
 
-> And this blockquote is styled to make it clear that this section really is someone speaking.
-
-And we can go back to a normal transcript.
-
-### A third level heading
-
-The example audio used here is borrowed from [NASA](http://www.nasa.gov/connect/sounds/index.html#Discovery) under the terms of their [usage guidelines](http://www.nasa.gov/multimedia/guidelines/index.html). This is just a test clip, so you'll need to replace it!
+Coastal textiles often feature imagery of humans and animals, commonly felines, birds and
+monkeys. In this tunic, we see rows of nearly identical feathers rendered with blue and brown-
+dyed cotton. This design appears in many textiles from the Chimú and Chancay cultures and
+may be a woven reference to another textile tradition — that is, the sewing of rare tropical
+feathers sourced from the Amazon onto cotton cloth.
