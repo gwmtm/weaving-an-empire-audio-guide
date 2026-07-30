@@ -3,7 +3,7 @@ layout: episode
 permalink: /stops/5-EN/
 type: stop
 section_title: “Tokapu” Waistband Tunic
-title: Stop 5 - English
+title: Stop No. 5
 page_rank: 9
 stop_id: 5-EN
 audio_file: NASA_main_Go_at_Throttle_Up.mp3
