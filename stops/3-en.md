@@ -3,7 +3,7 @@ layout: episode
 permalink: /stops/3-EN/
 type: stop
 section_title: Highland Tunic Style (Aymara)
-title: Stop #3 - English
+title: Stop No. 3
 page_rank: 5
 stop_id: 3-EN
 audio_file: NASA_main_Go_at_Throttle_Up.mp3
