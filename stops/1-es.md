@@ -3,7 +3,7 @@ layout: episode
 permalink: /stops/1-ES/
 type: stop
 section_title: Pared Introductoria
-title: Parada N.º 1 - Español
+title: Parada N.º 1
 page_rank: 2
 stop_id: 1-ES
 audio_file: NASA_main_Computers_are_in_Control.mp3
