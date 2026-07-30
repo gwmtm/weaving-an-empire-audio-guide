@@ -3,7 +3,7 @@ layout: episode
 permalink: /stops/7-EN/
 type: stop
 section_title: Regional Variation of a “Key” Tunic
-title: Stop 7 - English
+title: Stop No. 7
 page_rank: 13
 stop_id: 7-EN
 audio_file: NASA_main_Go_at_Throttle_Up.mp3
