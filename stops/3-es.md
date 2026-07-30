@@ -19,7 +19,8 @@ Mucho antes de que los incas establecieran su imperio, diferentes grupos cultura
 Andes habían desarrollado tradiciones textiles y estilos característicos de sus comunidades. Por
 ejemplo, podemos observar esta túnica de una comunidad de habla aymara, otra cultura que se
 ubicaba en el altiplano y que posteriormente quedó bajo el dominio inca.
- 
+
+
 Siglos antes del dominio inca, las comunidades aymaras habían habitado la región sur del
 Imperio inca y habían desarrollado un estilo de vestimenta propio con franjas tejidas. Esta
 túnica masculina, denominada “qhawa” en aymara, presenta un diseño de franjas verticales
