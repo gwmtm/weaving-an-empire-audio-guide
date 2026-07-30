@@ -9,10 +9,7 @@ stop_id: 2-EN
 audio_file: NASA_main_Go_at_Throttle_Up.mp3
 hero_images:
 hero_images:
- - path: 03-third-stop-01.jpg
-   alt_text: First example photo for stop 3
- - path: 03-third-stop-02.jpg
-   alt_text: Second example photo for stop 3
+ - path: 02-elements.jpeg
 ---
 
 These two mannequins are dressed to resemble the typical elements of clothing worn by
