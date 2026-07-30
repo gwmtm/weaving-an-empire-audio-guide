@@ -2,8 +2,8 @@
 layout: episode
 permalink: /stops/7-ES/
 type: stop
-section_title: The End
-title: Last stop in the tour
+section_title: Versión Regional de una Túnica con Diseño de “Llave”
+title: Parada N.º 7
 page_rank: 14
 stop_id: 7-ES
 audio_file: NASA_main_Go_at_Throttle_Up.mp3
@@ -15,14 +15,28 @@ hero_images:
    alt_text: Second example photo for stop 3
 ---
 
-Replace this section of text with the full transcript of your audio guide stop. Use a second level heading to flag the person speaking
+Si bien el poder inca estaba centralizado en la capital de Cusco, la vasta extensión del imperio
+era gobernada por funcionarios locales que actuaban en su nombre. Mientras desempeñaban
+estos cargos, los funcionarios debían usar prendas con elementos del diseño inca que los
+distinguieran de los demás.
 
-## Person speaking
+Los incas preferían elementos del diseño tales como una división en cuatro cuadrantes, un
+escote escalonado y el uso de una paleta de colores rojo, amarillo, verde y negro, que se
+difundieron en las regiones del imperio. Los uniformes de los funcionarios locales combinaban
+estos elementos incas con preferencias locales en cuanto a materiales, iconografía y técnicas.
 
-> And this blockquote is styled to make it clear that this section really is someone speaking.
+Por ejemplo, esta túnica (91.282) es una variación de la túnica militar con diseño de llave de la
+élite inca que se puede apreciar en la pared opuesta, adaptada aquí a una paleta de colores
+costeros. La composición se organiza en cuatro cuadrantes, como muchas túnicas regionales, y
+combina motivos no incas de aves y estrellas de 10 puntas con uno de los símbolos más
+exclusivos de los incas: una línea diagonal y dos cuadrados que conforman el motivo conocido
+como “llave inca”. El símbolo de la llave inca aparece en textiles del Estado utilizados en
+contextos militares y ceremoniales, y constituía uno de los símbolos cuyo uso solo estaba
+permitido con autorización oficial.
 
-And we can go back to a normal transcript.
-
-### A third level heading
-
-The example audio used here is borrowed from [NASA](http://www.nasa.gov/connect/sounds/index.html#Discovery) under the terms of their [usage guidelines](http://www.nasa.gov/multimedia/guidelines/index.html). This is just a test clip, so you'll need to replace it!
+Los cuadrantes están tejidos en los colores del Estado inca, pero el resto de la túnica presenta
+una combinación de rosa claro y azul intenso, característica de los textiles costeros. La túnica
+también tiene la misma longitud que las túnicas masculinas de la costa y es el único ejemplo
+conocido de una túnica con tan marcada influencia inca en estas proporciones más
+cortas. Probablemente haya sido utilizada por un funcionario de altísimo rango en la
+administración imperial local.
