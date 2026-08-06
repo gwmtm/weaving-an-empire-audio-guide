@@ -11,6 +11,7 @@ hero_images:
 hero_images:
  - path: 01-intro.jpg
  - path: 05-tokapu_a.jpg
+ - path: 05-tokapu_b.jpg
 
 ---
 
