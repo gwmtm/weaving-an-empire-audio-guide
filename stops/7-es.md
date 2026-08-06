@@ -9,10 +9,8 @@ stop_id: 7-ES
 audio_file: NASA_main_Go_at_Throttle_Up.mp3
 hero_images:
 hero_images:
- - path: 03-third-stop-01.jpg
-   alt_text: First example photo for stop 3
- - path: 03-third-stop-02.jpg
-   alt_text: Second example photo for stop 3
+ - path: 07-key.jpg
+
 ---
 
 Si bien el poder inca estaba centralizado en la capital de Cusco, la vasta extensión del imperio
