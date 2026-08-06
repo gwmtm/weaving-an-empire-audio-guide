@@ -7,7 +7,7 @@ title: Stop No. 4
 page_rank: 7
 stop_id: 4-EN
 audio_file: NASA_main_Go_at_Throttle_Up.mp3
-hero_images:
+hero_images: a
 hero_images:
  - path: 04-costal.jpg
 
