@@ -10,7 +10,7 @@ audio_file: NASA_main_Go_at_Throttle_Up.mp3
 hero_images:
 hero_images:
  - path: 05-tokapu_a.jpg
- - path: 05-tokapu_b.jpg
+   alt_text: First example photo for stop 1
 
 ---
 
