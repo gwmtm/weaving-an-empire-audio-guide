@@ -9,10 +9,9 @@ stop_id: 5-ES
 audio_file: NASA_main_Go_at_Throttle_Up.mp3
 hero_images:
 hero_images:
- - path: 03-third-stop-01.jpg
-   alt_text: First example photo for stop 3
- - path: 03-third-stop-02.jpg
-   alt_text: Second example photo for stop 3
+ - path: 05-tokapu_a.jpg
+ - path: 05-tokapu_b.jpg
+
 ---
 
 Al disponer de los recursos necesarios para las técnicas textiles más elaboradas, los incas
