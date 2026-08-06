@@ -9,7 +9,7 @@ stop_id: 5-EN
 audio_file: NASA_main_Go_at_Throttle_Up.mp3
 hero_images:
 hero_images:
- - path: 05-tokapu_a.jpga
+ - path: 05-tokapu_a.jpg
  - path: 05-tokapu_b.jpg
 
 ---
