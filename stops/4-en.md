@@ -9,10 +9,8 @@ stop_id: 4-EN
 audio_file: NASA_main_Go_at_Throttle_Up.mp3
 hero_images:
 hero_images:
- - path: 03-third-stop-01.jpg
-   alt_text: First example photo for stop 3
- - path: 03-third-stop-02.jpg
-   alt_text: Second example photo for stop 3
+ - path: 04-costal.jpg
+
 ---
 
 Coastal garment styles differed from the highland ones in length, materials, color palette and
