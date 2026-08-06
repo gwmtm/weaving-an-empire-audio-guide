@@ -9,10 +9,8 @@ stop_id: 6-EN
 audio_file: NASA_main_Go_at_Throttle_Up.mp3
 hero_images:
 hero_images:
- - path: 03-third-stop-01.jpg
-   alt_text: First example photo for stop 3
- - path: 03-third-stop-02.jpg
-   alt_text: Second example photo for stop 3
+ - path: 06-stars.jpg
+
 ---
 
 In addition to creating their own unique authority symbols, the Inka also assumed the right to
