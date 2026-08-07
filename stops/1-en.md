@@ -8,7 +8,7 @@ page_rank: 1
 stop_id: 1-EN
 audio_file: NASA_main_APU_Shutdown.mp3
 hero_images:
- - path: 01-intro.jpg
+ - path: 01-intro.png
 ---
 
 At its height in the 16th century, the Inka Empire stretched across thousands of miles and
