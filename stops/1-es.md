@@ -8,7 +8,7 @@ page_rank: 2
 stop_id: 1-ES
 audio_file: NASA_main_Computers_are_in_Control.mp3
 hero_images:
- - path: 01-intro.jpg
+ - path: 01-intro.png
 ---
 
 En su apogeo, en el siglo XVI, el Imperio inca abarcaba miles de kilómetros, desde las costas del
