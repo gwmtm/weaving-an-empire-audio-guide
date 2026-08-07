@@ -7,7 +7,7 @@ title: Parada N.º 6
 page_rank: 12
 stop_id: 6-ES
 audio_file: NASA_main_Go_at_Throttle_Up.mp3
-hero_images: a
+hero_images:
 hero_images:
  - path: 06-stars.jpg
 
