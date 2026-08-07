@@ -9,7 +9,7 @@ stop_id: 7-EN
 audio_file: NASA_main_Go_at_Throttle_Up.mp3
 hero_images:
 hero_images:
- - path: 07-key.jpg
+ - path: 07-key.jpgg
 
 ---
 
