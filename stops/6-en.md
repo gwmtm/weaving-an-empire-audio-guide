@@ -2,7 +2,7 @@
 layout: episode
 permalink: /stops/6-EN/
 type: stop
-section_title: Inka Tunic with Eight-pointed Stars
+section_title: Inka Tunic with Eight-Pointed Stars
 title: Level 3 - Stop No. 6
 page_rank: 11
 stop_id: 6-EN
