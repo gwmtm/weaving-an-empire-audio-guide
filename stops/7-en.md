@@ -3,7 +3,7 @@ layout: episode
 permalink: /stops/7-EN/
 type: stop
 section_title: Regional Variation of a “Key” Tunic
-title: Stop No. 7
+title: Level 3 - Stop No. 7
 page_rank: 13
 stop_id: 7-EN
 audio_file: NASA_main_Go_at_Throttle_Up.mp3
@@ -13,7 +13,7 @@ hero_images:
 
 ---
 
-While the Inka seat of power was centralized in the capital of Cusco, the vast expanse of the
+While the Inka seat of power was centralized in the capital of Cuzco, the vast expanse of the
 empire was governed by local officials working on behalf of the empire. While in these roles,
 officials were required to dress in garments with Inka design elements to set them apart.
 
