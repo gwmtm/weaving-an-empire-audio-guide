@@ -3,7 +3,7 @@ layout: episode
 permalink: /stops/2-EN/
 type: stop
 section_title: Elements of Andean Dress
-title: Stop No. 2
+title: Level 2 - Stop No. 2
 page_rank: 3
 stop_id: 2-EN
 audio_file: NASA_main_Go_at_Throttle_Up.mp3
