@@ -9,7 +9,7 @@ stop_id: 3-EN
 audio_file: NASA_main_Go_at_Throttle_Up.mp3
 hero_images:
 hero_images:
- - path: 03-highland.jpg
+ - path: 03-highland-white.jpg
 ---
 
 Long before the Inka established their empire, different cultural groups across the Andes had
