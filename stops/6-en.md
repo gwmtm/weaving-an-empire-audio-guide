@@ -3,7 +3,7 @@ layout: episode
 permalink: /stops/6-EN/
 type: stop
 section_title: Inka Tunic with Eight-pointed Stars
-title: Stop No. 6
+title: Level 3 - Stop No. 6
 page_rank: 11
 stop_id: 6-EN
 audio_file: NASA_main_Go_at_Throttle_Up.mp3
@@ -30,6 +30,6 @@ weapon was a mace with either six or eight points.
 In the case nearby, a feathered bag (1968.1.16) serves as another example of the Inka
 incorporating local traditions into their own elite textiles. Featherwork was a technique refined
 by artisans of the Chimú state on the northwest coast of Peru. When the Inka conquered the
-Chimú in 1470-71, they took featherwork specialists back to Cusco to work for the state.
+Chimú in 1470-71, they took featherwork specialists back to Cuzco to work for the state.
 Featherwork objects like this were found at the most sacred sacrificial site of the Inka, meant to
 give new life and vitality to the ruler.
