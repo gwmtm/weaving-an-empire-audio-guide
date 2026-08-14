@@ -6,7 +6,7 @@ section_title: Versión Regional de una Túnica con Diseño de “Llave”
 title: Nivel 3 - Parada N.º 7
 page_rank: 14
 stop_id: 7-ES
-audio_file: NASA_main_Go_at_Throttle_Up.mp3
+audio_file: parada 7 final.mp3
 hero_images:
 hero_images:
  - path: 07-key.jpeg
