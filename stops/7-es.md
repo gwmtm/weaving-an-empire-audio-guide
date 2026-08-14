@@ -19,11 +19,11 @@ estos cargos, los funcionarios debían usar prendas con elementos del diseño in
 distinguieran de los demás.
 
 Los incas preferían elementos del diseño tales como una división en cuatro cuadrantes, un
-escote escalonado y el uso de una paleta de colores rojo, amarillo, verde y negro, que se
+escote escalonado y el uso de una paleta de colores rojo, amarillo, verde, y negro que se
 difundieron en las regiones del imperio. Los uniformes de los funcionarios locales combinaban
 estos elementos incas con preferencias locales en cuanto a materiales, iconografía y técnicas.
 
-Por ejemplo, esta túnica (91.282) es una variación de la túnica militar con diseño de llave de la
+Por ejemplo, esta túnica es una variación de la túnica militar con diseño de llave de la
 élite inca que se puede apreciar en la pared opuesta, adaptada aquí a una paleta de colores
 costeros. La composición se organiza en cuatro cuadrantes, como muchas túnicas regionales, y
 combina motivos no incas de aves y estrellas de 10 puntas con uno de los símbolos más
