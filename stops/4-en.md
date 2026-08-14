@@ -3,7 +3,7 @@ layout: episode
 permalink: /stops/4-EN/
 type: stop
 section_title: Coastal Tunic Style
-title: Level 2 - Stop No. 4
+title: Level 2 - Stop 4
 page_rank: 7
 stop_id: 4-EN
 audio_file: stop 4 final.mp3
@@ -23,7 +23,6 @@ woven pieces of cloth sewn together in the front. Men’s tunics in coastal cult
 ending at the hips and revealing a decorated loincloth.
 
 Coastal textiles often feature imagery of humans and animals, commonly felines, birds and
-monkeys. In this tunic, we see rows of nearly identical feathers rendered with blue and brown-
-dyed cotton. This design appears in many textiles from the Chimú and Chancay cultures and
+monkeys. In this tunic, we see rows of nearly identical feathers rendered with blue and brown-dyed cotton. This design appears in many textiles from the Chimú and Chancay cultures and
 may be a woven reference to another textile tradition — that is, the sewing of rare tropical
 feathers sourced from the Amazon onto cotton cloth.
