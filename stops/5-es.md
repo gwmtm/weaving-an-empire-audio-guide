@@ -22,7 +22,7 @@ Estado inca en la producción de textiles destinados a las personas de mayor ran
 más importantes, mediante el uso deliberado de materiales más costosos, como la fibra de
 alpaca, y las técnicas que requerían más tiempo, como el tejido de tapiz entrelazado.
 
-Estos dos fragmentos (1930.16.7A y B) corresponden a la parte delantera y trasera de la misma
+Estos dos fragmentos corresponden a la parte delantera y trasera de la misma
 túnica, llamada “unku” en quechua, el idioma utilizado por los incas. Está tejida según el estilo
 de las “bandas de cintura con diseño tocapu”, denominado así por las tres filas de diseños
 geométricos llamados _tocapu_, que están directamente asociados con la realeza inca. Muchas de
