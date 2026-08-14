@@ -26,7 +26,7 @@ originally buried, with their clothing intact on the body. 
 The most commonly surviving clothing items are tunics and shoulder mantles. An example of
 each can be seen on the wall to the left.
 
-Tunic
+### Tunic
 
 Men in the Andes during the time of the Inka wore a torso garment known as a tunic. Although
 tunics varied in length and width from region to region, they shared some basic structural
@@ -34,7 +34,7 @@ similarities. Rather than being tailored from cut and sewn cloth, tunics across 
 woven to fit the wearer and did not require additional modification. The sides were closed with
 decorative stitching, and in some cultures short sleeves were added.
 
-Mantle
+### Mantle
 
 Shoulder mantles were an important part of both men’s and women’s dress in many cultures
 throughout the Andean region, although their use and composition varied according to gender
