@@ -6,7 +6,7 @@ section_title: Pared Introductoria
 title: Nivel 2 - Parada N.º 1
 page_rank: 2
 stop_id: 1-ES
-audio_file: NASA_main_Computers_are_in_Control.mp3
+audio_file: parada 1 final.mp3
 hero_images:
  - path: 01-intro.png
 ---
