@@ -3,7 +3,7 @@ layout: episode
 permalink: /stops/4-ES/
 type: stop
 section_title: Estilos de Vestimenta de la Costa
-title: Nivel 2 - Parada N.º 4
+title: Nivel 2 - Parada 4
 page_rank: 8
 stop_id: 4-ES
 audio_file: parada 4 final.mp3
