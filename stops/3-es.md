@@ -3,7 +3,7 @@ layout: episode
 permalink: /stops/3-ES/
 type: stop
 section_title: Estilos de Vestimenta del Altiplano
-title: Nivel 2 - Parada N.º 3
+title: Nivel 2 - Parada 3
 page_rank: 6
 stop_id: 3-ES
 audio_file: parada 3 final.mp3
