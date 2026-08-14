@@ -6,7 +6,7 @@ section_title: Inka Tunic with Eight-Pointed Stars
 title: Level 3 - Stop No. 6
 page_rank: 11
 stop_id: 6-EN
-audio_file: NASA_main_Go_at_Throttle_Up.mp3
+audio_file: stop 6 final.mp3
 hero_images:
 hero_images:
  - path: 06-stars.jpeg
