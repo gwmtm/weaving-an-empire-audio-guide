@@ -3,7 +3,7 @@ layout: episode
 permalink: /stops/3-EN/
 type: stop
 section_title: Highland Tunic Style (Aymara)
-title: Level 2 - Stop No. 3
+title: Level 2 - Stop 3
 page_rank: 5
 stop_id: 3-EN
 audio_file: stop 3 final.mp3
@@ -18,7 +18,7 @@ look at this tunic from an Aymara-speaking community, another culture which was 
 the highlands and later came under Inka rule.
 
 
-Aymara communities had inhabited the southern region of the Inka empire centuries before
+Aymara communities had inhabited the southern region of the Inka Empire centuries before
 Inka rule, developing a distinct clothing style featuring woven stripes. This men’s tunic, called
 “qhawa” in Aymara, has a pattern of narrow blue, yellow, red, and light green vertical stripes.
 Repeating patterns of stripes were common in men’s clothing, while symmetrical groupings of
