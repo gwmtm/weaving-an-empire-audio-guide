@@ -20,7 +20,7 @@ This tunic is covered with a repeating pattern of the Andean eight-pointed star.
 Throughout the Andes, the eight-pointed star held many sacred meanings and religious uses. It
 symbolized directions, time and structures of the universe. While this star appears in many
 Andean textiles made in a variety of regional-specific ways, it is mimicked in this tunic using the
-interlocked tapestry-weaving technique – the standard weaving practice for the finest Inka
+interlocked tapestry-weaving technique — the standard weaving practice for the finest Inka
 garments, requiring more yarn and more labor to execute.
 
 As a symbol co-opted by the Inka, it took on new associations. In addition to cosmological
