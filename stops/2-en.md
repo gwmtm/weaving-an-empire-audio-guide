@@ -6,7 +6,7 @@ section_title: Elements of Andean Dress
 title: Level 2 - Stop No. 2
 page_rank: 3
 stop_id: 2-EN
-audio_file: NASA_main_Go_at_Throttle_Up.mp3
+audio_file: stop 2 final.mp3
 hero_images:
 hero_images:
  - path: 02-elements.jpeg
