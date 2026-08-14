@@ -6,7 +6,7 @@ section_title: Túnica Inca con Banda en la Cintura de Diseño “Tocapu”
 title: Nivel 3 - Parada N.º 5
 page_rank: 10
 stop_id: 5-ES
-audio_file: NASA_main_Go_at_Throttle_Up.mp3
+audio_file: parada 5 final.mp3
 hero_images:
 hero_images:
  - path: 05-tokapu-a.jpg
