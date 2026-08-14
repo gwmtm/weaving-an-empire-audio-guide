@@ -28,7 +28,7 @@ named for the three rows of geometric designs called _tokapu_, which are directl
 Inka royalty. Many of the illustrations of Inka rulers in colonial manuscripts show them
 wearing _unku_ adorned with _tokapu_ patterns in various arrangements.
 
-The Inka started the trend of having a band in the middle of a man’s tunic – it is not a belt, but a
+The Inka started the trend of having a band in the middle of a man’s tunic — it is not a belt, but a
 decorative element woven into the tunic. It is unclear what the individual patterns meant, but
 three rows with the _tokapu_ patterning seen in this example in the case was a composition
 reserved for men of the royal family. You can also see variations of the “diamond waistband”
