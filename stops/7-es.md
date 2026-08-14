@@ -3,7 +3,7 @@ layout: episode
 permalink: /stops/7-ES/
 type: stop
 section_title: Versión Regional de una Túnica con Diseño de “Llave”
-title: Nivel 3 - Parada N.º 7
+title: Nivel 3 - Parada 7
 page_rank: 14
 stop_id: 7-ES
 audio_file: parada 7 final.mp3
@@ -19,7 +19,7 @@ estos cargos, los funcionarios debían usar prendas con elementos del diseño in
 distinguieran de los demás.
 
 Los incas preferían elementos del diseño tales como una división en cuatro cuadrantes, un
-escote escalonado y el uso de una paleta de colores rojo, amarillo, verde, y negro que se
+escote escalonado y el uso de una paleta de colores rojo, amarillo, verde y negro, que se
 difundieron en las regiones del imperio. Los uniformes de los funcionarios locales combinaban
 estos elementos incas con preferencias locales en cuanto a materiales, iconografía y técnicas.
 
