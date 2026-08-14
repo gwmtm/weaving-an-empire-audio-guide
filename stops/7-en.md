@@ -6,7 +6,7 @@ section_title: Regional Variation of a “Key” Tunic
 title: Level 3 - Stop No. 7
 page_rank: 13
 stop_id: 7-EN
-audio_file: NASA_main_Go_at_Throttle_Up.mp3
+audio_file: stop 7 final.mp3
 hero_images:
 hero_images:
  - path: 07-key.jpeg
