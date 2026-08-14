@@ -6,7 +6,7 @@ section_title: Highland Tunic Style (Aymara)
 title: Level 2 - Stop No. 3
 page_rank: 5
 stop_id: 3-EN
-audio_file: NASA_main_Go_at_Throttle_Up.mp3
+audio_file: stop 3 final.mp3
 hero_images:
 hero_images:
  - path: 03-highland-white.jpg
