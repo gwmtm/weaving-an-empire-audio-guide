@@ -6,7 +6,7 @@ section_title: Elementos de la Vestimenta Andina
 title: Nivel 2 - Parada N.º 2
 page_rank: 4
 stop_id: 2-ES
-audio_file: NASA_main_Go_at_Throttle_Up.mp3
+audio_file: parada 2 final.mp3
 hero_images:
 hero_images:
  - path: 02-elements.jpeg
