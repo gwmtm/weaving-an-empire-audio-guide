@@ -3,7 +3,7 @@ layout: episode
 permalink: /stops/5-EN/
 type: stop
 section_title: “Tokapu” Waistband Tunic
-title: Level 3 - Stop No. 5
+title: Level 3 - Stop 5
 page_rank: 9
 stop_id: 5-EN
 audio_file: stop 5 final.mp3
@@ -22,9 +22,9 @@ Expert spinners, weavers and dyers were conscripted to work for the Inka state i
 the textiles for the most elite people and purposes, intentionally using the costlier materials like
 alpaca hair, and the more time-consuming techniques like interlocked tapestry weave.
 
-These two fragments (1930.16.7A and B) are the front and back of the same tunic, called an
+These two fragments are the front and back of the same tunic, called an
 “unku” in Quechua, the language used by the Inka. It is woven in the “tokapu waistband” style,
-named for the three rows of geometric designs called _tokapu_ which are directly associated with
+named for the three rows of geometric designs called _tokapu_, which are directly associated with
 Inka royalty. Many of the illustrations of Inka rulers in colonial manuscripts show them
 wearing _unku_ adorned with _tokapu_ patterns in various arrangements.
 
