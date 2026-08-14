@@ -6,7 +6,7 @@ section_title: Estrella de Ocho Puntas
 title: Nivel 6 - Parada N.º 6
 page_rank: 12
 stop_id: 6-ES
-audio_file: NASA_main_Go_at_Throttle_Up.mp3
+audio_file: parada 6 final.mp3
 hero_images:
 hero_images:
  - path: 06-stars.jpeg
