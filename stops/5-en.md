@@ -32,7 +32,7 @@ The Inka started the trend of having a band in the middle of a man’s tunic –
 decorative element woven into the tunic. It is unclear what the individual patterns meant, but
 three rows with the _tokapu_ patterning seen in this example in the case was a composition
 reserved for men of the royal family. You can also see variations of the “diamond waistband”
-tunic – a different type worn by Inka elite -- along the wall in this gallery.
+tunic — a different type worn by Inka elite — along the wall in this gallery.
 
 These interlocked tapestry-woven tunics represent the pinnacle of Inka state textile production.
 They required large amounts of high-quality materials and the most skilled weavers, likely
