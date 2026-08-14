@@ -3,7 +3,7 @@ layout: episode
 permalink: /stops/1-ES/
 type: stop
 section_title: Pared Introductoria
-title: Nivel 2 - Parada N.º 1
+title: Nivel 2 - Parada 1
 page_rank: 2
 stop_id: 1-ES
 audio_file: parada 1 final.mp3
